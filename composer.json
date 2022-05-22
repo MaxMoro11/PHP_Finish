@@ -1,0 +1,16 @@
+{
+    "name": "maxmoro/php_finish",
+    "autoload": {
+        "psr-4": {
+            "Maxmoro\\PhpFinish\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaxMoro11",
+            "email": "m0rozov.morozow@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
